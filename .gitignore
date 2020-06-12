@@ -3,5 +3,6 @@ tmp/*
 !tmp/.gitkeep
 .vscode/
 build/
+.env
 
-src/config/auth.ts
+ormconfig.json
